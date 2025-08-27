@@ -34,11 +34,11 @@ Food Product Analysis is a web-based application built with Streamlit that helps
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/food-product-analysis.git
+    git clone https://github.com/MadhuraB08/InFact.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd food-product-analysis
+    cd InFact
     ```
 3. Install the required dependencies:
     ```bash
@@ -72,7 +72,4 @@ Food Product Analysis is a web-based application built with Streamlit that helps
 - Thanks to the open-source community for providing the tools and libraries used in this project.
 
 
-## Contact
-For any questions or feedback, feel free to reach out:
-- **Email**: infactsap2025@gmail.com
-- **GitHub**: [infact-infact](https://github.com/infact-innfact)
+
